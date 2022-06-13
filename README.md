@@ -10,7 +10,7 @@ _Growth mindset_, at it's base level, is the belief that one's skills can be imp
 ## Keeping yourself in the growth mindset:
 - **Reflect** on positive achievements
 - Don't be afraid to **ask** for help
-- Embrace the journey, **respect** the process
+- Embrace the journey, **respect** the process  
 ____
 ### Here are some links so you can follow the progress of my programming journey!  
 - [What is Markdown?](whatismarkdown.md)
