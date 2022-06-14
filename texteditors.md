@@ -8,11 +8,12 @@ Below are some of the most important features to look for when choosing a text e
 
 *(Click to see definition)*
 
-<Code Completion>
-  
-A feature that helps assist in coding by displying real time options depending on the code your writing. This can save time and avoid the possibility of typos
+**<details><summary>Code Completion</summary>**
+<p>
 
-</Code Completion>
+A feature that helps assist in coding by displying real time options depending on the code your writing. This can save time and avoid the possibility of typos
+</p>
+</details>
 
 **<details><summary>Syntax Highlighting</summary>**
 <p>
