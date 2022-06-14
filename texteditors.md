@@ -1,8 +1,7 @@
-# Reading Notes?  
+# TEXT EDITORS
 
-## Text Editors
+## What are they?
 
-### What are they?
 Text editors are a typer of software that enables coders to write and manage text. This is the most important tool needed for web developers.
 Below are some of the most important features to look for when choosing a text editor:
 
@@ -64,4 +63,4 @@ These options include, but are not limited to, the following:
 - Brackets
 - Sublime Text
 
-## The Command Line
+# THE COMMAND LINE
