@@ -11,6 +11,7 @@ Below are some of the most important features to look for when choosing a text e
 <p>
 
 A feature that helps assist in coding by displying real time options depending on the code your writing. This can save time and avoid the possibility of typos
+
 </p>
 </details>
 
@@ -64,3 +65,15 @@ These options include, but are not limited to, the following:
 - Sublime Text
 
 # THE COMMAND LINE
+
+## What are they?
+
+The command line, also reffered to as a terminal, is a text based interface to the operating system.
+
+## Opening a terminal 
+
+| Computer OS | Steps                |
+|    :---:    |         :---:        |
+| Mac         | *Application -> Utilities -> Terminal|
+| Windows     | **See Below*               |
+| Linux       |Applications -> System ***OR*** Applications -> Utilities |
