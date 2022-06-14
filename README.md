@@ -13,3 +13,4 @@ _Growth mindset_, at it's base level, is the belief that one's skills can be imp
 - Embrace the journey, **respect** the process  
 ### Here are some links so you can follow the progress of my programming journey!  
 - [What is Markdown?](whatismarkdown.md)
+- [Text Editors](texteditors.md)
