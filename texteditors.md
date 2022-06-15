@@ -39,6 +39,7 @@ A feature that allows the software to connect with other softwares outside of it
 </p>
 </details>
 
+
 ## Where do I get one?
 
 Every computer already has its own text editor installed! While these are usually bare bones editors, they are accessible to anybody who is on that computer system.
@@ -53,6 +54,7 @@ Examples listed below:
 
 ###### There are many different editors available for Linux. The distribution decides which one is installed.
 
+
 ## Third party options
 
 These options include, but are not limited to, the following:
@@ -65,11 +67,13 @@ These options include, but are not limited to, the following:
 - Brackets
 - Sublime Text
 
+
 # THE COMMAND LINE
 
 ## What is it?
 
 The command line, also reffered to as a terminal, is a text based interface to the operating system.
+
 
 ## Opening a terminal 
 
@@ -85,9 +89,11 @@ Examples listed below:
 
 ###### Windows requires a SSH client
 
+
 ## The Shell
 
 Part within the terminal that the operating system talks to. It defines how the terminal behaves when the coder starts entering commands.
+
 
 # Basic Navigation
 
@@ -121,12 +127,15 @@ Change Directory
 </p>
 </details> 
 
+
 ### Cheatsheet
+
 | Command |               Action Taken              |
 |  :---:  |                  :---:                  |
 | pwd     | Shows the current folder                |
 | ls      | Lists the contents inside the directory |
 | cd      | Moves to another directory              |
+
 
 ## Concepts to remember
 
