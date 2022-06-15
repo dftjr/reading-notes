@@ -8,7 +8,7 @@ A system that allows you to see various versions of a file, or files, by recordi
 - Revert a project or previous version
 - Track modifications
 - Compare changes
-
+<br>
 
 ## Types of VCS
 
@@ -24,14 +24,14 @@ A single database on a hard drive that stores file changes
 
 <details>
 <summary>Centralized Version Control (CVCS)</summary>
-<br>
+<p>
 A single server that stores all file changes and versions
 
 - Streamlines collaboration
 - Eliminates need for local databases
 - More administrative control 
+</p>
 </details>
-<br>
 
 <details>
 <summary>Distributed Version Control (DVCS)</summary>
@@ -45,9 +45,7 @@ Multiple mirrored repositories
 </details>
 <br>
 
-
 ## Git
-
 
 - **Snapshot:** DVCS that stores data in a file system
   - Saved changes to projects, called commit, create a store a reference to it
