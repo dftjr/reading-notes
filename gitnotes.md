@@ -1,9 +1,22 @@
 # VERSION CONTROL
 
+## What is it?
+
+A system that allows you to see various versions of a file, or files, by recording the changes. A coder can do the following things:
+
+- Revert a project or previous version
+- Track modifications
+- Compare changes
+
+## Types of VCS
+
+*(Click to reveal)*
 <details>
 <summary>Local VCS</summary>
 <br> 
 A single database on a hard drive that stores file changes
+
+- Local database 
 </details>
 
 <details>
@@ -25,3 +38,26 @@ Multiple mirrored repositories
 - Addresses vulnerability of a server as a single point of failure
 - Can replace lost information through data backups
 </details>
+
+## Git
+
+- **Snapshot:** DVCS that stores data in a file system
+  - Saved changes to projects, called commit, create a store a reference to it
+  - Only stores a reference if files has not been changed 
+ 
+- **Local Operations:** Relies mostly on local operations
+  - Heavily relies on local operations
+  - Process expediency from history residing on the local disk
+  - Eliminates need for fetching information from servers
+  - Can work on projects offline 
+ 
+- **Tracking Changes:** All changes to files and directories are tracked by Git
+  - File corruption and data loss will be detected 
+
+- **Data Loss:** Set up to minimze irreversible damage to files
+  - Extremely difficult for a committed snapshot to be lost
+
+- **States:** Files remain in three states
+  - ***Commited***: Data secured in a local database
+  - ***Modified***: Files are changed, but not comiited to the database
+  - ***Staged***: Flags a file's change version being committed in the next snapshot
