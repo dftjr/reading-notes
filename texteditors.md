@@ -47,15 +47,16 @@ Examples listed below:
 
 | Computer OS | Pre-Installed Editor |
 |    :---:    |         :---:        |
-| Mac         |Text Edit             |
-| Windows     |Notepad               |
-| Linux       |**See Below*          |
+| Mac         | Text Edit            |
+| Windows     | Notepad              |
+| Linux       | *See Below*          |
 
-**There are many different editors available for Linux. The distribution decides which one is installed*
+###### There are many different editors available for Linux. The distribution decides which one is installed.
 
 ## Third party options
 
 These options include, but are not limited to, the following:
+
 - Notepad++
 - TextWrangler
 - BB Edit
@@ -66,14 +67,83 @@ These options include, but are not limited to, the following:
 
 # THE COMMAND LINE
 
-## What are they?
+## What is it?
 
 The command line, also reffered to as a terminal, is a text based interface to the operating system.
 
 ## Opening a terminal 
 
-| Computer OS | Steps                |
-|    :---:    |         :---:        |
-| Mac         | *Application -> Utilities -> Terminal|
-| Windows     | **See Below*               |
-| Linux       |Applications -> System ***OR*** Applications -> Utilities |
+Each operating system has its own way of accessing its terminal.
+
+Examples listed below:
+
+| Computer OS |                          Steps                            |
+|    :---:    |                          :---:                            |
+| Mac         | Application -> Utilities -> Terminal                      |
+| Windows     | *See Below*                                               |
+| Linux       | Applications -> System ***OR*** Applications -> Utilities |
+
+###### Windows requires a SSH client
+
+## The Shell
+
+Part within the terminal that the operating system talks to. It defines how the terminal behaves when the coder starts entering commands.
+
+# Basic Navigation
+
+## Where do I start?
+
+Navigation within a terminal can seem daunting at first, but with time and discipline, it becomes easier to understand what the coder is looking at.
+
+*(Click to see definition)*
+
+**<details><summary>pwd</summary>**
+<p>
+
+Print Working Directory
+
+</p>
+</details>
+
+**<details><summary>ls</summary>**
+<p>
+
+List
+  
+</p>
+</details>
+  
+**<details><summary>cd</summary>**
+<p>
+
+Change Directory
+
+</p>
+</details> 
+
+### Cheatsheet
+| Command |               Action Taken              |
+|  :---:  |                  :---:                  |
+| pwd     | Shows the current folder                |
+| ls      | Lists the contents inside the directory |
+| cd      | Moves to another directory              |
+
+## Concepts to remember
+
+*(Click to see definition)*
+
+**<details><summary>Relative Path</summary>**
+<p>
+
+File or directory location that reflects where the coder currently resides in that file system
+
+</p>
+</details>
+
+**<details><summary>Absolute Path</summary>**
+<p>
+
+File or directory location in relation to the file systems root
+
+</p>
+</details>
