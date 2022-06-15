@@ -1,7 +1,12 @@
 # What is Markdown?  
+
+<br>
+
 ## Markdown is plain text simple syntax that helps programmers quickly add formatting elements to text documents.
 
 If that explanation above was a little confusing, let me show you exactly what it means:
+
+<br>
 
 > <--- Blockquotes (very popular on websites that contain comment sections)
 >> Using * to italicize a word  
@@ -19,5 +24,7 @@ If that explanation above was a little confusing, let me show you exactly what i
 >> Creating Lists and sub-lists  
 >> - List
 >>    - Sub-list
+
+<br>
 
 These are only a handful of examples showing the simplicity of this language, pretty cool huh?  
