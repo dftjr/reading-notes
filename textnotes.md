@@ -10,14 +10,22 @@ Below are some of the most important features to look for when choosing a text e
 <details>
 <summary>Code Completion</summary>
 <br>
+
+```
 A feature that helps assist in coding by displying real time options depending on the code your writing. This can save time and avoid the possibility of typos
+```
+
 <br>
 </details>
 
 <details>
 <summary>Syntax Highlighting</summary>
 <br>
+
+``` 
 A feature that colorizes the text you write to make it more noticable. Certain types of code can be different than others which can help in discovering errors
+
+```  
 <br>
 </details>
 
