@@ -1,5 +1,6 @@
 # VERSION CONTROL
 
+&nbsp;
 
 ## What is it?
 
@@ -9,17 +10,18 @@ A system that allows you to see various versions of a file, or files, by recordi
 - Track modifications
 - Compare changes
 
-<br>
+&nbsp;
 
 ## Types of VCS
 
-*(Click for definition)*
+<sup>*(Click for definition)*</sup>
 
 <details>
 <summary>Local VCS</summary>
 <p> 
 A single database on a hard drive that stores file changes
-- Local database 
+- Local database
+
 </p>
 </details>
 
@@ -31,6 +33,7 @@ A single server that stores all file changes and versions
 - Streamlines collaboration
 - Eliminates need for local databases
 - More administrative control 
+
 </p>
 </details>
 
@@ -42,42 +45,47 @@ Multiple mirrored repositories
 - Assists in various ways of collaborating
 - Addresses vulnerability of a server as a single point of failure
 - Can replace lost information through data backups
+
 </p>
 </details>
 
-<br>
+&nbsp;
 
 ## Git
-
 
 - **Snapshot:** DVCS that stores data in a file system
   - Saved changes to projects, called commit, create a store a reference to it
   - Only stores a reference if files has not been changed  
-<br>
+
+&nbsp;
 
 - **Local Operations:** Relies mostly on local operations
   - Heavily relies on local operations
   - Process expediency from history residing on the local disk
   - Eliminates need for fetching information from servers
   - Can work on projects offline  
-<br>  
+
+&nbsp;
 
 - **Tracking Changes:** All changes to files and directories are tracked by Git
   - File corruption and data loss will be detected  
-<br>
+
+&nbsp;
 
 - **Data Loss:** Set up to minimze irreversible damage to files
   - Extremely difficult for a committed snapshot to be lost  
-<br>
+
+&nbsp;
 
 - **States:** Files remain in three states
   - ***Commited***: Data secured in a local database
   - ***Modified***: Files are changed, but not comiited to the database
   - ***Staged***: Flags a file's change version being committed in the next snapshot  
-<br>
+
+&nbsp;
 
 ### Getting started
 
 Installation instructions and updates can be found at the link below:
-<br>
+
 [Setting up Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
