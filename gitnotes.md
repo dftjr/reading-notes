@@ -20,7 +20,7 @@ A system that allows you to see various versions of a file, or files, by recordi
 A single database on a hard drive that stores file changes
 - Local database 
 </details>
-
+<br>
 
 <details>
 <summary>Centralized Version Control (CVCS)</summary>
@@ -31,7 +31,7 @@ A single server that stores all file changes and versions
 - Eliminates need for local databases
 - More administrative control 
 </details>
-
+<br>
 
 <details>
 <summary>Distributed Version Control (DVCS)</summary>
@@ -43,7 +43,7 @@ Multiple mirrored repositories
 - Can replace lost information through data backups
 </p>
 </details>
-
+<br>
 
 
 ## Git
