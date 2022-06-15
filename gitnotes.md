@@ -48,10 +48,11 @@ Multiple mirrored repositories
 
 ## Git
 
+
 - **Snapshot:** DVCS that stores data in a file system
   - Saved changes to projects, called commit, create a store a reference to it
   - Only stores a reference if files has not been changed 
- <br>
+<br>
  
 - **Local Operations:** Relies mostly on local operations
   - Heavily relies on local operations
@@ -66,7 +67,7 @@ Multiple mirrored repositories
 
 - **Data Loss:** Set up to minimze irreversible damage to files
   - Extremely difficult for a committed snapshot to be lost
-
+<br>
 
 - **States:** Files remain in three states
   - ***Commited***: Data secured in a local database
