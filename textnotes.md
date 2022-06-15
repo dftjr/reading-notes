@@ -1,5 +1,7 @@
 # TEXT EDITORS
 
+&nbsp;
+
 ## What are they?
 
 Text editors are a typer of software that enables coders to write and manage text. This is the most important tool needed for web developers.
@@ -34,7 +36,8 @@ A feature that allows the coder to customize the look of the software they are u
 A feature that allows the software to connect with other softwares outside of itself. This allows access to "plugins" which basically improves your current software by giving it additional tools
 </p>
 </details>
-<br>
+
+&nbsp;
 
 ## Where do I get one?
 
@@ -48,7 +51,8 @@ Examples listed below:
 | Linux       | <sup>See note[^1]</sup> |
 
 [^1]: There are many different editors available for Linux. The distribution decides which one is installed.  
-<br>
+
+&nbsp;
 
 ## Third party options
 
@@ -61,16 +65,18 @@ These options include, but are not limited to, the following:
 - Atom
 - Brackets
 - Sublime Text
-<br>
+
+&nbsp;
 
 # THE COMMAND LINE
 
 ## What is it?
 
 The command line, also reffered to as a terminal, is a text based interface to the operating system.
-<br>
 
-## Opening a terminal 
+&nbsp;
+
+## Opening a terminal
 
 Each operating system has its own way of accessing its terminal.  
 Examples listed below:
@@ -82,12 +88,14 @@ Examples listed below:
 | Linux       | Applications -> System ***OR*** Applications -> Utilities |
 
 [^2]: Windows requires a SSH client  
-<br>
+
+&nbsp;
 
 ## The Shell
 
 Part within the terminal that the operating system talks to. It defines how the terminal behaves when the coder starts entering commands.
-<br>
+
+&nbsp;
 
 # Basic Navigation
 
@@ -116,8 +124,9 @@ List
 <p>
 Change Directory
 </p>
-</details> 
-<br>
+</details>
+
+&nbsp;
 
 ### Cheatsheet
 
@@ -127,7 +136,7 @@ Change Directory
 | ls      | Lists the contents inside the directory |
 | cd      | Moves to another directory              |
 
-<br>
+&nbsp;
 
 ## Concepts to remember
 
@@ -146,8 +155,8 @@ File or directory location that reflects where the coder currently resides in th
 File or directory location in relation to the file systems root
 </p>
 </details>
-<br>
 
-| References |  |
-|------------|--|
-|            |  |
+&nbsp;
+
+| References |
+|------------|
