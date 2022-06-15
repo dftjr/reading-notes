@@ -16,9 +16,10 @@ A system that allows you to see various versions of a file, or files, by recordi
 
 <details>
 <summary>Local VCS</summary>
-<br> 
+<p> 
 A single database on a hard drive that stores file changes
 - Local database 
+</p>
 </details>
 <br>
 
