@@ -10,7 +10,7 @@ A system that allows you to see various versions of a file, or files, by recordi
 
 ## Types of VCS
 
-*(Click to reveal)*
+*(Click for definition)*
 <details>
 <summary>Local VCS</summary>
 <br> 
@@ -61,3 +61,9 @@ Multiple mirrored repositories
   - ***Commited***: Data secured in a local database
   - ***Modified***: Files are changed, but not comiited to the database
   - ***Staged***: Flags a file's change version being committed in the next snapshot
+
+### Getting started
+
+Installation instructions and updates can be found at the link below:
+<br>
+[Setting up Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
