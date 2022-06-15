@@ -35,7 +35,6 @@ A feature that allows the software to connect with other softwares outside of it
 ## Where do I get one?
 
 Every computer already has its own text editor installed! While these are usually bare bones editors, they are accessible to anybody who is on that computer system.
-
 Examples listed below:
 
 | Computer OS | Pre-Installed Editor |
@@ -43,6 +42,7 @@ Examples listed below:
 | Mac         | Text Edit            |
 | Windows     | Notepad              |
 | Linux       | *See Below*          |
+
 
 ###### There are many different editors available for Linux. The distribution decides which one is installed.
 
@@ -78,6 +78,7 @@ Examples listed below:
 | Mac         | Application -> Utilities -> Terminal                      |
 | Windows     | *See Below*                                               |
 | Linux       | Applications -> System ***OR*** Applications -> Utilities |
+
 
 ###### Windows requires a SSH client
 
