@@ -78,7 +78,7 @@ Examples listed below:
 | Computer OS |                          Steps                            |
 |    :---:    |                          :---:                            |
 | Mac         | Application -> Utilities -> Terminal                      |
-| Windows     | <sup>See note[^2]</sup>                                               |
+| Windows     | <sup>See note[^2]</sup>                                   |
 | Linux       | Applications -> System ***OR*** Applications -> Utilities |
 
 [^2]: Windows requires a SSH client  
@@ -123,6 +123,7 @@ Change Directory
 | pwd     | Shows the current folder                |
 | ls      | Lists the contents inside the directory |
 | cd      | Moves to another directory              |
+
 <br>
 
 ## Concepts to remember
@@ -131,13 +132,18 @@ Change Directory
 
 <details>
 <summary>Relative Path</summary>
-<br>
+<p>
 File or directory location that reflects where the coder currently resides in that file system
+</p>
 </details>
 
 <details>
 <summary>Absolute Path</summary>
-<br>
+<p>
 File or directory location in relation to the file systems root
+</p>
 </details>
 <br>
+
+| References |
+|------------|
