@@ -9,6 +9,7 @@ If that explanation above was a little confusing, let me show you exactly what i
 > <--- Blockquotes (very popular on websites that contain comment sections)
 > 
 >> Using \* to italicize a word
+>> 
 >> *italicized*
 >
 >> Using \** to make a word bold
