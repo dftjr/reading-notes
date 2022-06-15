@@ -9,38 +9,32 @@ Below are some of the most important features to look for when choosing a text e
 
 <details>
 <summary>Code Completion</summary>
-<br>
-
-```
+<p>
 A feature that helps assist in coding by displying real time options depending on the code your writing. This can save time and avoid the possibility of typos
-```
-
-<br>
+</p>
 </details>
 
 <details>
 <summary>Syntax Highlighting</summary>
-<br>
+<p>
 
-``` 
-A feature that colorizes the text you write to make it more noticable. Certain types of code can be different than others which can help in discovering errors
+> A feature that colorizes the text you write to make it more noticable. Certain types of code can be different than others which can help in discovering errors 
 
-```  
-<br>
+</p>
 </details>
 
 <details>
 <summary>Variety of Themes</summary>
-<br>
+<p>
 A feature that allows the coder to customize the look of the software they are using. This could be background color, text color, or even other aspects of the software
-<br>
+</p>
 </details>
 
 <details>
 <summary>Extension Options</summary>
-<br>
+<p>
 A feature that allows the software to connect with other softwares outside of itself. This allows access to "plugins" which basically improves your current software by giving it additional tools
-<br>
+</p>
 </details>
 
 ## Where do I get one?
