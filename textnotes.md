@@ -17,9 +17,7 @@ A feature that helps assist in coding by displying real time options depending o
 <details>
 <summary>Syntax Highlighting</summary>
 <p>
-
-> A feature that colorizes the text you write to make it more noticable. Certain types of code can be different than others which can help in discovering errors 
-
+A feature that colorizes the text you write to make it more noticable. Certain types of code can be different than others which can help in discovering errors 
 </p>
 </details>
 
