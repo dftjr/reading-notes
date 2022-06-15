@@ -21,7 +21,6 @@ A single database on a hard drive that stores file changes
 - Local database 
 </p>
 </details>
-<br>
 
 <details>
 <summary>Centralized Version Control (CVCS)</summary>
