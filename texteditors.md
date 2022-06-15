@@ -13,28 +13,22 @@ Below are some of the most important features to look for when choosing a text e
 A feature that helps assist in coding by displying real time options depending on the code your writing. This can save time and avoid the possibility of typos
 </details>
 
-**<details><summary>Syntax Highlighting</summary>**
-<p>
-
+<details>
+<summary>Syntax Highlighting</summary>
+<br>
 A feature that colorizes the text you write to make it more noticable. Certain types of code can be different than others which can help in discovering errors
-
-</p>
 </details>
 
-**<details><summary>Variety of Themes</summary>**
-<p>
-
+<details>
+<summary>Variety of Themes</summary>
+<br>
 A feature that allows the coder to customize the look of the software they are using. This could be background color, text color, or even other aspects of the software
-
-</p>
 </details>
 
-**<details><summary>Extension Options</summary>**
-<p>
-
+<details>
+<summary>Extension Options</summary>
+<br>
 A feature that allows the software to connect with other softwares outside of itself. This allows access to "plugins" which basically improves your current software by giving it additional tools
-
-</p>
 </details>
 
 
@@ -101,28 +95,22 @@ Navigation within a terminal can seem daunting at first, but with time and disci
 
 *(Click to see definition)*
 
-**<details><summary>pwd</summary>**
-<p>
-
+<details>
+<summary>pwd</summary>
+<br>
 Print Working Directory
-
-</p>
 </details>
 
-**<details><summary>ls</summary>**
-<p>
-
+<details>
+<summary>ls</summary>
+<br>
 List
-  
-</p>
 </details>
   
-**<details><summary>cd</summary>**
-<p>
-
+<details>
+<summary>cd</summary>
+<br>
 Change Directory
-
-</p>
 </details> 
 
 
@@ -139,18 +127,14 @@ Change Directory
 
 *(Click to see definition)*
 
-**<details><summary>Relative Path</summary>**
-<p>
-
+<details>
+<summary>Relative Path</summary>
+<br>
 File or directory location that reflects where the coder currently resides in that file system
-
-</p>
 </details>
 
-**<details><summary>Absolute Path</summary>**
-<p>
-
+<details>
+<summary>Absolute Path</summary>
+<br>
 File or directory location in relation to the file systems root
-
-</p>
 </details>
