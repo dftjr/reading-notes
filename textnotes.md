@@ -149,11 +149,8 @@ File or directory location in relation to the file systems root
 <br>
 
 #### References
-
-<p>
+<br>
 
 |            |  |
 |------------|--|
 |            |  |
-
-</p>
