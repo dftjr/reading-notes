@@ -1,6 +1,5 @@
 # VERSION CONTROL
 
-<br>
 
 ## What is it?
 
@@ -10,7 +9,6 @@ A system that allows you to see various versions of a file, or files, by recordi
 - Track modifications
 - Compare changes
 
-<br>
 
 ## Types of VCS
 
@@ -43,7 +41,6 @@ Multiple mirrored repositories
 - Can replace lost information through data backups
 </details>
 
-<br>
 
 ## Git
 
@@ -51,7 +48,6 @@ Multiple mirrored repositories
   - Saved changes to projects, called commit, create a store a reference to it
   - Only stores a reference if files has not been changed 
  
- <br>
  
 - **Local Operations:** Relies mostly on local operations
   - Heavily relies on local operations
@@ -59,24 +55,20 @@ Multiple mirrored repositories
   - Eliminates need for fetching information from servers
   - Can work on projects offline 
  
- <br>
  
 - **Tracking Changes:** All changes to files and directories are tracked by Git
   - File corruption and data loss will be detected 
 
-<br>
 
 - **Data Loss:** Set up to minimze irreversible damage to files
   - Extremely difficult for a committed snapshot to be lost
 
-<br>
 
 - **States:** Files remain in three states
   - ***Commited***: Data secured in a local database
   - ***Modified***: Files are changed, but not comiited to the database
   - ***Staged***: Flags a file's change version being committed in the next snapshot
 
-<br>
 
 ### Getting started
 
