@@ -13,13 +13,14 @@ A system that allows you to see various versions of a file, or files, by recordi
 ## Types of VCS
 
 *(Click for definition)*
+
 <details>
 <summary>Local VCS</summary>
 <br> 
 A single database on a hard drive that stores file changes
-<br>
 - Local database 
 </details>
+
 
 <details>
 <summary>Centralized Version Control (CVCS)</summary>
@@ -31,15 +32,18 @@ A single server that stores all file changes and versions
 - More administrative control 
 </details>
 
+
 <details>
 <summary>Distributed Version Control (DVCS)</summary>
-<br>
+<p>
 Multiple mirrored repositories
 
 - Assists in various ways of collaborating
 - Addresses vulnerability of a server as a single point of failure
 - Can replace lost information through data backups
+</p>
 </details>
+
 
 
 ## Git
