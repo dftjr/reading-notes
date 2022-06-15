@@ -1,5 +1,4 @@
 # TEXT EDITORS
-<br>
 
 ## What are they?
 
@@ -65,7 +64,6 @@ These options include, but are not limited to, the following:
 <br>
 
 # THE COMMAND LINE
-<br>
 
 ## What is it?
 
@@ -92,7 +90,6 @@ Part within the terminal that the operating system talks to. It defines how the 
 <br>
 
 # Basic Navigation
-<br>
 
 ## Where do I start?
 
