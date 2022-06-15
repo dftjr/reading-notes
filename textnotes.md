@@ -99,20 +99,23 @@ Navigation within a terminal can seem daunting at first, but with time and disci
 
 <details>
 <summary>pwd</summary>
-<br>
+<p>
 Print Working Directory
+</p>
 </details>
 
 <details>
 <summary>ls</summary>
-<br>
+<p>
 List
+</p>
 </details>
   
 <details>
 <summary>cd</summary>
-<br>
+<p>
 Change Directory
+</p>
 </details> 
 <br>
 
@@ -145,5 +148,6 @@ File or directory location in relation to the file systems root
 </details>
 <br>
 
-| References |
-|------------|
+| References |  |
+|------------|--|
+
