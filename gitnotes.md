@@ -8,6 +8,7 @@ A system that allows you to see various versions of a file, or files, by recordi
 - Revert a project or previous version
 - Track modifications
 - Compare changes
+
 <br>
 
 ## Types of VCS
