@@ -20,6 +20,7 @@ A system that allows you to see various versions of a file, or files, by recordi
 <summary>Local VCS</summary>
 <p> 
 A single database on a hard drive that stores file changes
+
 - Local database
 
 </p>
@@ -32,7 +33,7 @@ A single server that stores all file changes and versions
 
 - Streamlines collaboration
 - Eliminates need for local databases
-- More administrative control 
+- More administrative control
 
 </p>
 </details>
