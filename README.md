@@ -23,3 +23,4 @@ The journey begins here!
 - [Notes on Markdown](markdownnotes.md)
 - [Notes on Text Editors](textnotes.md)
 - [Notes on Git](gitnotes.md)
+- [Notes on HTML](htmlnotes.md)
