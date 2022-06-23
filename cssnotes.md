@@ -41,8 +41,6 @@ Here is a table of just a few of the basic properties available:
 
 Selectors are used to find the HTML elements that the programmer is trying to style. There are five categories of selectors:
 
-<br>
-
 - Simple selector
 - Combinator selector
 - Pseudo-elements selector
