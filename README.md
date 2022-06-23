@@ -24,3 +24,4 @@ The journey begins here!
 - [Notes on Text Editors](textnotes.md)
 - [Notes on Git](gitnotes.md)
 - [Notes on HTML](htmlnotes.md)
+- [Notes on HTML](cssnotes.md)
