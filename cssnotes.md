@@ -44,11 +44,11 @@ Selectors are used to find the HTML elements that the programmer is trying to st
 </p>
 <p>
 
-- Simple selector
-- Combinator selector
-- Pseudo-elements selector
-- Pseudo-class selector
-- Attribute selector
+    * Simple selector
+    * Combinator selector
+    * Pseudo-elements selector
+    * Pseudo-class selector
+    * Attribute selector
 
 </p>
 </details>
