@@ -24,4 +24,7 @@ The journey begins here!
 - [Notes on Text Editors](textnotes.md)
 - [Notes on Git](gitnotes.md)
 - [Notes on HTML](htmlnotes.md)
-- [Notes on HTML](cssnotes.md)
+- [Notes on CSS](cssnotes.md)
+- [Notes on JavaScript](javascriptnotes.md)
+- [Notes on Programming with JavaScript](programwithjavanotes.md)
+- [Notes on Operators and Loops](operatorsandloopsnotes.md)
