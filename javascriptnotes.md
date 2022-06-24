@@ -1,4 +1,4 @@
-# CSS for Beginers
+# JavaScript Introduction
 
 ## What is it?
 
