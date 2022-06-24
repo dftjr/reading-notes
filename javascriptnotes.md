@@ -15,6 +15,18 @@ A scripting language, lightweight and interpreted, very well-known as the langua
 
 &nbsp;
 
+### Why was it created?
+
+JavaScript helps create and add interactivity to a website.It can be used from web design to even creating video games. You can animate 2D and 3D graphics as well.
+
+The language has a ton of flexibility that does not require a ton of effort to create, some examples:
+
+- Browser Application Programming Interfaces (APIs) built into web browsers
+- Third-party APIs that allow developers to incorporate functionality in sites
+- Third-party frameworks and libraries that you can apply to HTML
+
+&nbsp;
+
 ## Variables
 
 <sup>*(Click for definition)*</sup>
@@ -46,42 +58,30 @@ Here is a table of the Data Types found in JavaScript:
 
 &nbsp;
 
-## Operators
+## What are Conditionals?
 
 <sup>*(Click for definition)*</sup>
 
 <details>
-<summary>Operator</summary>
+<summary>Conditionals</summary>
 <p> 
 
-A mathematical symbol that produces a result based on two values also known as variables.
+Code structures used to test if an expression is true or false. "If" statements are some of the most commonly used ones.
 
 </p>
 </details>
 
 &nbsp;
 
-Here is a table of some of the Operators found in JavaScript:
-
-|    Variable                            |               Explination                                |
-|      :---:                             |                  :---:                                   |
-| Addition                               | Add two numbers (or strings) together                    |
-| Subtraction, Multiplication, Division  | These follow the same rules of basic math                |
-| Assignment                             | Assigns value to the variable                            |
-| Strict Equality                        | Perfrms a test to see if values are equal, returns a T/F |
-| Not, Does-Not Equal                    | Returns the logically OPPOSITE value of what is returned |
-
-&nbsp;
-
-## Functions
+## Call an Event!
 
 <sup>*(Click for definition)*</sup>
 
 <details>
-<summary>Functions</summary>
+<summary>Events</summary>
 <p> 
 
-Defines a body of code that will execute when you call for the function in the code. This helps with reducing redundant code.
+Events are interactive situations that respond when a user gives certain responses to the code. It listens to the activity in the browser. An example is having the console sent bck a response to the user based on an action they take, example: A user clicks to delete something out of their shopping cart on a website and a message appears asking, "Are you sure you don't want this item?".
 
 </p>
 </details>
