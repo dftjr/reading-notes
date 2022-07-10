@@ -1,6 +1,6 @@
 # My learning journal for Code Fellows
 
-The journey begins here!
+My journey begins here, within this website. This page will have all the projects and notes I take throughout the next few months as I progress towards my new career goals of being a software programmer!
 
 &nbsp;
 
@@ -18,7 +18,7 @@ The journey begins here!
 
 &nbsp;
 
-## Here are some links so you can follow the progress of my programming journey
+## Code 102 Reading Notes
 
 - [Notes on Markdown](markdownnotes.md)
 - [Notes on Text Editors](textnotes.md)
@@ -28,3 +28,21 @@ The journey begins here!
 - [Notes on JavaScript](javascriptnotes.md)
 - [Notes on Programming with JavaScript](programwithjavanotes.md)
 - [Notes on Operators and Loops](operatorsandloopsnotes.md)
+
+## Code 201 Reading Notes
+
+- [Reading Assignment #1]
+- [Reading Assignment #2]
+- [Reading Assignment #3]
+- [Reading Assignment #4]
+- [Reading Assignment #5]
+- [Reading Assignment #6]
+- [Reading Assignment #7]
+- [Reading Assignment #8]
+- [Reading Assignment #9]
+- [Reading Assignment #10]
+- [Reading Assignment #11]
+- [Reading Assignment #12]
+- [Reading Assignment #13]
+- [Reading Assignment #14]
+- [Reading Assignment #15]
