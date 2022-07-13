@@ -2,6 +2,12 @@
 
 <br>
 
+## How does HTTP work?
+
+- HTTP (Hypertext Transfer Protocol) is anplcation protocol that defines the language for clients are servers to speak to each other. The browser locates the DNS server, the browser then sends a HTTP request to the server. This request is asking for a copy of the website to send to the client. It gets sent across the internet using TCP/IP. If the server approves, it starts sending the client the website files in return. After all data is assembled, the webpage is displayed.
+
+<br>
+
 ## Getting Started
 
 **Describe how HTML, CSS, and JS files are parsed in the browser**
