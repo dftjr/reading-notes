@@ -33,7 +33,7 @@ My journey begins here, within this website. This page will have all the project
 
 - [Reading Assignment #1](class-01.md)
 - [Reading Assignment #2]
-- [Reading Assignment #3]
+- [Reading Assignment #3](class-03.md)
 - [Reading Assignment #4]
 - [Reading Assignment #5]
 - [Reading Assignment #6]
