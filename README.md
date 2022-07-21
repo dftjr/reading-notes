@@ -39,7 +39,7 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #6](class-06.md)
 - [Reading Assignment #7](class-07.md)
 - [Reading Assignment #8](class-08.md)
-- [Reading Assignment #9]
+- [Reading Assignment #9](class-09.md)
 - [Reading Assignment #10]
 - [Reading Assignment #11]
 - [Reading Assignment #12]
