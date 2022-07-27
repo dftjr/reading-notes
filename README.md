@@ -43,6 +43,6 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #10](class-10.md)
 - [Reading Assignment #11](class-11.md)
 - [Reading Assignment #12]
-- [Reading Assignment #13]
+- [Reading Assignment #13](class-13.md)
 - [Reading Assignment #14]
 - [Reading Assignment #15]
