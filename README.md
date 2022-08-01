@@ -32,7 +32,7 @@ My journey begins here, within this website. This page will have all the project
 ## Code 201 Reading Notes
 
 - [Reading Assignment #1](class-01.md)
-- [Reading Assignment #2]
+- [Reading Assignment #2](class-02.md)
 - [Reading Assignment #3](class-03.md)
 - [Reading Assignment #4](class-04.md)
 - [Reading Assignment #5]
