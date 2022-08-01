@@ -42,7 +42,7 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #9](class-09.md)
 - [Reading Assignment #10](class-10.md)
 - [Reading Assignment #11](class-11.md)
-- [Reading Assignment #12]
+- [Reading Assignment #12](class-12.md)
 - [Reading Assignment #13](class-13.md)
 - [Reading Assignment #14a](class-14a.md)
 - [Reading Assignment #14b](class-14b.md)
