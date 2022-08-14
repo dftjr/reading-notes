@@ -47,3 +47,9 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #14a](class-14a.md)
 - [Reading Assignment #14b](class-14b.md)
 - [Reading Assignment #15]
+
+## Code 301 Reading Notes
+
+- [Reading Assignment #1]
+
+## Code 401 Reading Notes
