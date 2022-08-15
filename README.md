@@ -50,6 +50,6 @@ My journey begins here, within this website. This page will have all the project
 
 ## Code 301 Reading Notes
 
-- [Reading Assignment #1]
+- [Reading Assignment #1](class-01-301.md)
 
 ## Code 401 Reading Notes
