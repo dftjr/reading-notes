@@ -51,7 +51,7 @@ My journey begins here, within this website. This page will have all the project
 ## Code 301 Reading Notes
 
 - [Reading Assignment #1](class-01-301.md)
-- [Reading Assignment #1]
+- [Reading Assignment #2](class-02-301.md)
 - [Reading Assignment #1]
 - [Reading Assignment #1]
 - [Reading Assignment #5](class-05-301.md)
