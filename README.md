@@ -53,7 +53,7 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #1](class-01-301.md)
 - [Reading Assignment #2](class-02-301.md)
 - [Reading Assignment #3](class-03-301.md)
-- [Reading Assignment #4]
+- [Reading Assignment #4](class-04-301.md)
 - [Reading Assignment #5](class-05-301.md)
 
 ## Code 401 Reading Notes
