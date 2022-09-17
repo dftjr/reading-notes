@@ -1,4 +1,4 @@
-# My learning journal for Code Fellows
+# Reading Notes
 
 My journey begins here, within this website. This page will have all the projects and notes I take throughout the next few months as I progress towards my new career goals of being a software programmer!
 
@@ -18,7 +18,7 @@ My journey begins here, within this website. This page will have all the project
 
 &nbsp;
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 - [Notes on Markdown](markdownnotes.md)
 - [Notes on Text Editors](textnotes.md)
@@ -29,7 +29,7 @@ My journey begins here, within this website. This page will have all the project
 - [Notes on Programming with JavaScript](programwithjavanotes.md)
 - [Notes on Operators and Loops](operatorsandloopsnotes.md)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 - [Reading Assignment #1](class-01.md)
 - [Reading Assignment #2](class-02.md)
@@ -48,7 +48,7 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #14b](class-14b.md)
 - [Reading Assignment #15]
 
-## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 
 - [Reading Assignment #1](class-01-301.md)
 - [Reading Assignment #2](class-02-301.md)
@@ -58,4 +58,4 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #6](class-06-301.md)
 - [Reading Assignment #7](class-07-301.md)
 
-## Code 401 Reading Notes
+## Code 401 - Advanced Software Development
