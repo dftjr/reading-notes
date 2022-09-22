@@ -31,7 +31,7 @@ SQL is a very critical language to have for databases, as it helps cut down on t
 
 ## Screenshots of Lessons:
 
-- <img src="./images/SQL Lesson 1.jpg" alt="Image 1" width="500" height="500"/>
+- <img src="./images/SQL Lesson 1.jpg" alt="Image 1" width="500" height="750"/>
 - <img src="./images/SQL Lesson 2.jpg" alt="Image 2" width="500" height="500"/>
 - <img src="./images/SQL Lesson 3.jpg" alt="Image 3" width="500" height="500"/>
 - <img src="./images/SQL Lesson 4.jpg" alt="Image 4" width="500" height="500"/>
