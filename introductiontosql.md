@@ -31,15 +31,15 @@ SQL is a very critical language to have for databases, as it helps cut down on t
 
 ## Screenshots of Lessons:
 
-- <img src="./images/SQL Lesson 1.jpg" alt="Image 1" width="200" height="200"/>
-- <img src="./images/SQL Lesson 2.jpg" alt="Image 2" width="200" height="200"/>
-- <img src="./images/SQL Lesson 3.jpg" alt="Image 3" width="200" height="200"/>
-- <img src="./images/SQL Lesson 4.jpg" alt="Image 4" width="200" height="200"/>
-- <img src="./images/SQL Lesson 5.jpg" alt="Image 5" width="200" height="200"/>
-- <img src="./images/SQL Lesson 6.jpg" alt="Image 6" width="200" height="200"/>
-- <img src="./images/SQL Lesson 13.jpg" alt="Image 13" width="200" height="200"/>
-- <img src="./images/SQL Lesson 14.jpg" alt="Image 14" width="200" height="200"/>
-- <img src="./images/SQL Lesson 15.jpg" alt="Image 15" width="200" height="200"/>
-- <img src="./images/SQL Lesson 16.jpg" alt="Image 16" width="200" height="200"/>
-- <img src="./images/SQL Lesson 17.jpg" alt="Image 17" width="200" height="200"/>
-- <img src="./images/SQL Lesson 18.jpg" alt="Image 18" width="200" height="200"/>
+- <img src="./images/SQL Lesson 1.jpg" alt="Image 1" width="500" height="500"/>
+- <img src="./images/SQL Lesson 2.jpg" alt="Image 2" width="500" height="500"/>
+- <img src="./images/SQL Lesson 3.jpg" alt="Image 3" width="500" height="500"/>
+- <img src="./images/SQL Lesson 4.jpg" alt="Image 4" width="500" height="500"/>
+- <img src="./images/SQL Lesson 5.jpg" alt="Image 5" width="500" height="500"/>
+- <img src="./images/SQL Lesson 6.jpg" alt="Image 6" width="500" height="500"/>
+- <img src="./images/SQL Lesson 13.jpg" alt="Image 13" width="500" height="500"/>
+- <img src="./images/SQL Lesson 14.jpg" alt="Image 14" width="500" height="500"/>
+- <img src="./images/SQL Lesson 15.jpg" alt="Image 15" width="500" height="500"/>
+- <img src="./images/SQL Lesson 16.jpg" alt="Image 16" width="500" height="500"/>
+- <img src="./images/SQL Lesson 17.jpg" alt="Image 17" width="500" height="500"/>
+- <img src="./images/SQL Lesson 18.jpg" alt="Image 18" width="500" height="500"/>
