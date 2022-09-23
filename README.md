@@ -61,3 +61,4 @@ My journey begins here, within this website. This page will have all the project
 ## Code 401 - Advanced Software Development
 - [Introduction to SQL](introductiontosql.md)
 - [Practice in the Terminal](practiceintheterminal.md)
+- [Engineering](engineeringreadings.md)
