@@ -62,3 +62,8 @@ My journey begins here, within this website. This page will have all the project
 - [Introduction to SQL](introductiontosql.md)
 - [Practice in the Terminal](practiceintheterminal.md)
 - [Engineering](engineeringreadings.md)
+- [Reading Assignment #1](class-01-401.md)
+- [Reading Assignment #2](class-02-401.md) 
+- [Reading Assignment #3](class-03-401.md)
+- [Reading Assignment #4](class-04-401.md)
+- [Reading Assignment #6](class-06-401.md)
