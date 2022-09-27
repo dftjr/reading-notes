@@ -67,3 +67,4 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #3](class-03-401.md)
 - [Reading Assignment #4](class-04-401.md)
 - [Reading Assignment #6](class-06-401.md)
+- [Reading Assignment #7](class-07-401.md)
