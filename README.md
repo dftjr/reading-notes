@@ -80,3 +80,4 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #17](class-17-401.md)
 - [Reading Assignment #18](class-18-401.md)
 - [Reading Assignment #19](class-19-401.md)
+- [Reading Assignment Trees](trees.md)
