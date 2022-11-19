@@ -84,3 +84,4 @@ My journey begins here, within this website. This page will have all the project
 - [Reading Assignment #19](class-19-401.md)
 - [Reading Assignment #26](class-26-401.md)
 - [Reading Assignment #32](class-32-401.md)
+- [Reading Assignment #42](class-42-401.md)
